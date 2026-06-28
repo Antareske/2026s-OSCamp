@@ -5,7 +5,7 @@ categories:
     - OSTraining
 tags:
     - author:Antareske
-    - repo:https://github.com/Antareske/tgoskits
+    - repo:https://github.com/Antareske/2026s-OSCamp
     - 2026S
     - StarryOS
     - 网络栈
@@ -456,7 +456,7 @@ net-bench 和 eBPF 工具虽然尚未完全成熟，但建立了方法论：
 
 # 四、致谢与总结
 
-感谢训练营和向勇老师的指导。感谢助教 Mr Graveyard（方案一）、Ajax（rk3588）、周睿老师（rk3588 NPU 优化和 PR review）的帮助。感谢同组学员 aptacc2421、WellDown64 的讨论交流，感谢龙同学（LetsWalkInLine）交接的初步 Nginx 支持。特别感谢 CN-TangLin 同学的 eBPF 内核运行时工作，为网络观测工具提供了基础。
+感谢助教 Mr Graveyard（方案一）、Ajax（rk3588）、周睿老师（rk3588 NPU 优化和 PR review）的帮助。感谢同组学员 aptacc2421、WellDown64 的讨论交流，感谢龙同学（LetsWalkInLine）交接的初步 Nginx 支持。特别感谢 CN-TangLin 同学的 eBPF 内核运行时工作，为网络观测工具提供了基础。
 
 这次训练营让我从"写测试"进阶到"建框架"，从"跑通功能"深入到"定位根因"。最大的收获不是代码量，而是工程方法上的变化：更重视测试覆盖、问题跟踪和工具建设，也更能把复杂问题拆成可验证的小问题逐步推进。
 
